@@ -1,0 +1,10 @@
+# Site settings
+title: dev |> ops
+email: hexedpackets@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hexedpackets.github.io"
+twitter_username: hexedpackets
+github_username:  hexedpackets
+timezone: America/New_York
+markdown: redcarpet
+permalink: /:year/:month/:title
