@@ -3,7 +3,7 @@ title: dev |> ops
 locale: en_US
 email: hexedpackets@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: http://hexedpackets.github.io
+url: http://hexedpackets.github.io
 twitter_username: hexedpackets
 github_username:  hexedpackets
 timezone: America/New_York
