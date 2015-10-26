@@ -1,10 +1,34 @@
 # Site settings
 title: dev |> ops
+locale: en_US
 email: hexedpackets@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hexedpackets.github.io"
+#url: http://hexedpackets.github.io
 twitter_username: hexedpackets
 github_username:  hexedpackets
 timezone: America/New_York
+
+# Jekyll config
 markdown: redcarpet
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
 permalink: /:year/:month/:title
+gems:
+  - jekyll-sitemap
+
+# Site owner
+owner:
+  name: William Huba
+  avatar: bio-photo.jpg
+  bio: Immutably currying dev workflows into your ops.
+  email: hexedpackets@gmail.com
+  github: hexedpackets
+  twitter: hexedpackets
+  stackoverflow: 1431073/hexedpackets
+  linkedin: hexedpackets
+  google:
+    analytics: UA-37388221-3
+  #instagram: hexedpackets
+  #steam: hexedpackets
