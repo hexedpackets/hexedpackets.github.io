@@ -43,5 +43,6 @@ acl internal-ips {
 ---
 
 Dynamic DNS Python scripts:
-[Using sockets](https://github.com/hiveary/scripts/blob/master/dns/dynamic-update.py)
-[Using salt templates](https://github.com/hiveary/scripts/blob/master/dns/salt-dynamic-update.py)
+
+- [Using sockets](https://github.com/hiveary/scripts/blob/master/dns/dynamic-update.py)
+- [Using salt templates](https://github.com/hiveary/scripts/blob/master/dns/salt-dynamic-update.py)
