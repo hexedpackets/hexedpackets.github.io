@@ -10,7 +10,7 @@ timezone: America/New_York
 
 # Jekyll config
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
