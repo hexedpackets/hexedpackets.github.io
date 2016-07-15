@@ -9,7 +9,7 @@ github_username:  hexedpackets
 timezone: America/New_York
 
 # Jekyll config
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
