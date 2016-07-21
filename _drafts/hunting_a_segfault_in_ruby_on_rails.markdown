@@ -32,3 +32,6 @@ set breakpoint: `require 'debugger'; debugger`
 start rails server locally `bundle exec rails s`
 
 restart apache: `sudo service apache2 restart`
+
+
+https://github.com/rails/rails/blob/0991c4c6fc0c04764f34c6b65a42adce190440c3/activerecord/lib/active_record/associations/association.rb#L156
