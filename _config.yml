@@ -17,6 +17,9 @@ sass:
 permalink: /:year/:month/:title
 gems:
   - jekyll-sitemap
+exclude:
+  - .hyde.el
+
 
 # Site owner
 owner:
