@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hunting a segfault in Ruby on Rails"
+date: 2016-07-25
 tags:
  - ruby
  - rails
