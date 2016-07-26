@@ -3,9 +3,9 @@ layout: post
 title: "Hunting a segfault in Ruby on Rails"
 date: 2016-07-25
 tags:
- - ruby
- - rails
- - debugging
+  - ruby
+  - rails
+  - debugging
 ---
 
 One of the benefits of modern languages is that you have some really great layers of abstraction between the programmer and the computer's hardware. Very rarely will most programmers have to directly manage memory, for example. This makes life so much easier! However, once in a while the scorching sun of reality burns through and forces us to confront the truth: abstractions hide the management, but its still there.
