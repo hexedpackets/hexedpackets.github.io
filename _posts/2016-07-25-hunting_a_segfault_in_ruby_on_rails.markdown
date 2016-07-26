@@ -44,9 +44,7 @@ sudo a2enmod proxy_http
 Then enable the proxy in the apache config:
 
 ```apache
-# Keep requests for /static routed to local assets
 ProxyPass /static !
-# Send everything else to port 3000
 ProxyPass /
 ProxyPass / http://127.0.0.1:3000/
 ProxyPassReverse / http://127.0.0.1:3000/
