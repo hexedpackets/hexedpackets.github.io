@@ -1,0 +1,58 @@
+==================================================================
+https://keybase.io/hexedpackets
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://skynet.sexy
+  * I am hexedpackets (https://keybase.io/hexedpackets) on keybase.
+  * I have a public key ASDEJnreX8YCGdeqqs-36VHgM4HzUZ5SjH1fq3GP8HgbxAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c4267ade5fc60219d7aaaacfb7e951e03381f3519e528c7d5fab718ff0781bc40a",
+            "host": "keybase.io",
+            "kid": "0120c4267ade5fc60219d7aaaacfb7e951e03381f3519e528c7d5fab718ff0781bc40a",
+            "uid": "19d30af83f9a37ba1cb5feea41ffa119",
+            "username": "hexedpackets"
+        },
+        "service": {
+            "hostname": "skynet.sexy",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487094909,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487094733,
+        "hash": "726a6392603cd3f62822ae83d7b7cb6887a51dc75151064d7e10de405eee59bfb648a988cfa1976f49e101b3bb7b07da832c669c124fb62b4143f4242404f410",
+        "seqno": 889543
+    },
+    "prev": "ac66831f0cb52718c0978716debef85373b2290a5a91cb29262823ef4cc766e5",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxCZ63l/GAhnXqqrPt+lR4DOB81GeUox9X6txj/B4G8QKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzQyNjdhZGU1ZmM2MDIxOWQ3YWFhYWNmYjdlOTUxZTAzMzgxZjM1MTllNTI4YzdkNWZhYjcxOGZmMDc4MWJjNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLC
+JraWQiOiIwMTIwYzQyNjdhZGU1ZmM2MDIxOWQ3YWFhYWNmYjdlOTUxZTAzMzgxZjM1MTllNTI4YzdkNWZhYjcxOGZmMDc4MWJjNDBhIiwidWlkIjoiMTlkMzBhZjgzZjlhMzdiYTFjYjVmZWVhNDFmZmExMTkiLCJ1c2VybmFtZSI6ImhleGVkcGFja2V0cyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2t5bmV0LnNleHkiLCJwcm90b2NvbCI6Imh0dHA6In0s
+InR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg3MDk0OTA5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODcwOTQ3MzMsImhhc2giOiI3MjZhNjM5MjYwM2NkM2Y2Mj
+gyMmFlODNkN2I3Y2I2ODg3YTUxZGM3NTE1MTA2NGQ3ZTEwZGU0MDVlZWU1OWJmYjY0OGE5ODhjZmExOTc2ZjQ5ZTEwMWIzYmI3YjA3ZGE4MzJjNjY5YzEyNGZiNjJiNDE0M2Y0MjQyNDA0ZjQxMCIsInNlcW5vIjo4ODk1NDN9LCJwcmV2IjoiYWM2NjgzMWYwY2I1MjcxOGMwOTc4NzE2ZGViZWY4NTM3M2IyMjkwYTVhOTFjYjI5MjYyODIzZWY0Y2M3NjZlNSIs
+InNlcW5vIjoyMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDmwb+T7MrwVi5d1zmC8rGXLwm6Mts+GK1PNkNgxBgzCxHPjHIWDa7x1TzybfMttk5MgmGNyR8lxc9dLJ9rlDwEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgGZe6Eu391HRIzykJn/fnhUdXWAjewwYIbevtYcYBzHqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hexedpackets
+
+==================================================================
